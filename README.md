@@ -1,9 +1,5 @@
-### Hi there 👋
+Hi there, I'm Ben.
 
-![Ben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benranderson&show_icons=true)
+I'm a chartered engineer (IMechE) and Python developer, based in Glasgow.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benranderson&layout=compact)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benranderson)
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+Email me at [ben.m.randerson@gmail.com](mailto:ben.m.randerson@gmail.com?subject=Hi) or find me on [LinkedIn](https://www.linkedin.com/in/ben-randerson).
